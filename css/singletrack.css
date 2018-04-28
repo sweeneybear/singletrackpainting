@@ -156,7 +156,7 @@ header {
 }
 
 header .logo-image {
-	background-image: url("/media/singletrack-logo.png");
+	background-image: url("../media/singletrack-logo.png");
 	background-size: contain;
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
@@ -265,11 +265,11 @@ header nav .icon {
 }
 
 .hero-wrapper.orange {
-	background-image: url("/media/beach-houses.jpg");
+	background-image: url("../media/beach-houses.jpg");
 }
 
 .hero-wrapper.black {
-	background-image: url("/media/wood-panel-house.jpg");
+	background-image: url("../media/wood-panel-house.jpg");
 }
 
 .hero-wrapper h1 {
@@ -392,15 +392,15 @@ header nav .icon {
 }
 
 .cta-wrapper.learn:before {
-	background-image: url("/media/school.jpg");
+	background-image: url("../media/school.jpg");
 }
 
 .cta-wrapper.choose:before {
-	background-image: url("/media/road.jpg");
+	background-image: url("../media/road.jpg");
 }
 
 .cta-wrapper.call:before {
-	background-image: url("/media/phone-booth.jpg");
+	background-image: url("../media/phone-booth.jpg");
 }
 
 .cta-wrapper:hover:after {
@@ -539,7 +539,7 @@ header nav .icon {
 }
 
 .profile .profile-image.drew-andria {
-	background-image: url("/media/drew-andria.jpg");
+	background-image: url("../media/drew-andria.jpg");
 }
 
 .profile h2 {
@@ -937,23 +937,23 @@ footer nav .icon {
 @media only screen and (max-width: 480px) {
 
 	.hero-wrapper.orange {
-		background-image: url("/media/beach-houses-mobile.jpg");
+		background-image: url("../media/beach-houses-mobile.jpg");
 	}
 
 	.hero-wrapper.black {
-		background-image: url("/media/wood-panel-house-mobile.jpg");
+		background-image: url("../media/wood-panel-house-mobile.jpg");
 	}
 
 	.cta-wrapper.learn:before {
-		background-image: url("/media/school-mobile.jpg");
+		background-image: url("../media/school-mobile.jpg");
 	}
 
 	.cta-wrapper.choose:before {
-		background-image: url("/media/road-mobile.jpg");
+		background-image: url("../media/road-mobile.jpg");
 	}
 
 	.cta-wrapper.call:before {
-		background-image: url("/media/phone-booth-mobile.jpg");
+		background-image: url("../media/phone-booth-mobile.jpg");
 	}
 
 }
@@ -962,23 +962,23 @@ footer nav .icon {
 @media only screen and (min-width: 481px) and (max-width: 1140px) {
 
 	.hero-wrapper.orange {
-		background-image: url("/media/beach-houses-mobile@2x.jpg");
+		background-image: url("../media/beach-houses-mobile@2x.jpg");
 	}
 
 	.hero-wrapper.black {
-		background-image: url("/media/wood-panel-house-mobile@2x.jpg");
+		background-image: url("../media/wood-panel-house-mobile@2x.jpg");
 	}
 
 	.cta-wrapper.learn:before {
-		background-image: url("/media/school-mobile@2x.jpg");
+		background-image: url("../media/school-mobile@2x.jpg");
 	}
 
 	.cta-wrapper.choose:before {
-		background-image: url("/media/road-mobile@2x.jpg");
+		background-image: url("../media/road-mobile@2x.jpg");
 	}
 
 	.cta-wrapper.call:before {
-		background-image: url("/media/phone-booth-mobile@2x.jpg");
+		background-image: url("../media/phone-booth-mobile@2x.jpg");
 	}
 
 }
